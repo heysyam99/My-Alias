@@ -77,6 +77,8 @@ alias dcu="docker-compose up -d"
 alias dcl="docker-compose logs -f"
 alias mc="mailcatcher"
 alias up="git pull && bundle check || bi && dbm"
+alias gb="go build"
+alias gr="go run"
 ulimit -n 20000
 ulimit -u 1000
 
