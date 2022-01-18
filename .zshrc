@@ -79,6 +79,7 @@ alias mc="mailcatcher"
 alias up="git pull && bundle check || bi && dbm"
 alias gb="go build"
 alias gr="go run"
+alias nv= "nvim"
 ulimit -n 20000
 ulimit -u 1000
 
